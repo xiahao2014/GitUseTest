@@ -3,6 +3,7 @@ package speechansj.efunor.com.fickerprtogress;
 import android.app.Activity;
 
 /**
+ *
  * <br/>Description
  * <br/>Author: xiahao
  * <br/>Version 1.0
@@ -15,5 +16,6 @@ public class NewOperation extends Activity{
     public void setFinishOnTouchOutside(boolean finish) {
         super.setFinishOnTouchOutside(finish);
         System.out.println("New");
+        System.out.println("New2");
     }
 }
