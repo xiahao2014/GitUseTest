@@ -14,6 +14,5 @@ public class NewOperation extends Activity{
     @Override
     public void setFinishOnTouchOutside(boolean finish) {
         super.setFinishOnTouchOutside(finish);
-        System.out.println();
     }
 }
