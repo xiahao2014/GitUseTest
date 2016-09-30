@@ -17,5 +17,6 @@ public class NewOperation extends Activity{
         super.setFinishOnTouchOutside(finish);
         System.out.println("New");
         System.out.println("New2");
+        System.out.println("New3");
     }
 }
