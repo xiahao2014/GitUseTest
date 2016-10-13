@@ -12,13 +12,14 @@ import android.os.Bundle;
  * <br/>Copyright<h3/> Copyright (c) 2016 Shenzhen YiFeng Technology Co., Ltd. Inc.
  * All rights reserved.
  */
-public class NewFuncation extends Activity {
+public class NewFuncation extends Activity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         System.out.println("ABCD");
         System.out.println("EFGH");
         System.out.println("IJKLM");
+        System.out.println("2333333333333");
     }
 
 
