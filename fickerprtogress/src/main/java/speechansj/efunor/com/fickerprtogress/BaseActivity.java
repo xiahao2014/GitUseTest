@@ -16,6 +16,11 @@ public class BaseActivity extends Activity{
     }
 
     @Override
+    protected void onPostResume() {
+        super.onPostResume();
+    }
+
+    @Override
     protected void onStart() {
         super.onStart();
     }
