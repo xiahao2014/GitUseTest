@@ -17,6 +17,7 @@ public class NewFuncation extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         System.out.println("ABCD");
+        System.out.println("EFGH");
     }
 
 
