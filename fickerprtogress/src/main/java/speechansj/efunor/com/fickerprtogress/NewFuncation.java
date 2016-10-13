@@ -18,6 +18,7 @@ public class NewFuncation extends Activity {
         super.onCreate(savedInstanceState);
         System.out.println("ABCD");
         System.out.println("EFGH");
+        System.out.println("IJKLM");
     }
 
 
